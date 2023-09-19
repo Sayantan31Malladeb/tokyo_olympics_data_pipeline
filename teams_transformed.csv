@@ -1,0 +1,147 @@
+TeamName,EventsParticipated,MaleParticipants,FemaleParticipants,TotalParticipants,MalePercentage,FemalePercentage,UniqueDisciplines,ParticipatedInMixed
+Chinese Taipei,6,3,2,6,50.0,33.33333333333333,3,Yes
+Sweden,6,2,4,6,33.33333333333333,66.66666666666666,4,Yes
+Republic of Korea,17,7,8,17,41.17647058823529,47.05882352941176,10,Yes
+Fiji,2,1,1,2,50.0,50.0,1,Yes
+Turkey,4,1,2,4,25.0,50.0,4,Yes
+Germany,32,16,12,32,50.0,37.5,12,Yes
+France,32,15,14,32,46.875,43.75,15,Yes
+"Hong Kong, China",8,2,6,8,25.0,75.0,4,Yes
+Argentina,8,6,2,8,75.0,25.0,6,Yes
+Belgium,10,4,4,10,40.0,40.0,7,Yes
+Great Britain,28,12,11,28,42.857142857142854,39.285714285714285,10,Yes
+China,30,8,17,30,26.666666666666668,56.666666666666664,16,Yes
+United States,43,16,19,43,37.2093023255814,44.18604651162791,17,Yes
+India,6,3,1,6,50.0,16.666666666666664,3,Yes
+Belarus,7,1,3,7,14.285714285714285,42.857142857142854,5,Yes
+Nigeria,4,1,2,4,25.0,50.0,2,Yes
+Italy,34,13,13,34,38.23529411764706,38.23529411764706,14,Yes
+Lithuania,2,1,1,2,50.0,50.0,2,Yes
+Norway,2,1,1,2,50.0,50.0,1,Yes
+Spain,18,7,6,18,38.88888888888889,33.33333333333333,12,Yes
+Denmark,8,4,4,8,50.0,50.0,4,Yes
+Ireland,6,3,2,6,50.0,33.33333333333333,5,Yes
+Ukraine,10,2,3,10,20.0,30.0,7,Yes
+Mexico,8,1,2,8,12.5,25.0,6,Yes
+Montenegro,2,1,1,2,50.0,50.0,2,Yes
+Tunisia,3,1,1,3,33.33333333333333,33.33333333333333,3,Yes
+Switzerland,9,6,2,9,66.66666666666666,22.22222222222222,6,Yes
+Jamaica,5,2,2,5,40.0,40.0,1,Yes
+Canada,27,9,12,27,33.33333333333333,44.44444444444444,15,Yes
+Czech Republic,3,2,1,3,66.66666666666666,33.33333333333333,3,Yes
+Brazil,21,9,8,21,42.857142857142854,38.095238095238095,10,Yes
+Kenya,3,1,2,3,33.33333333333333,66.66666666666666,2,Yes
+Japan,45,19,18,45,42.22222222222222,40.0,19,Yes
+New Zealand,13,6,6,13,46.15384615384615,46.15384615384615,6,Yes
+Trinidad & Tobago,3,2,1,3,66.66666666666666,33.33333333333333,1,Yes
+Poland,19,8,8,19,42.10526315789473,42.10526315789473,8,Yes
+Australia,32,13,12,32,40.625,37.5,14,Yes
+Romania,3,1,2,3,33.33333333333333,66.66666666666666,3,Yes
+Austria,4,1,1,4,25.0,25.0,4,Yes
+Egypt,11,5,2,11,45.45454545454545,18.181818181818183,7,Yes
+Serbia,6,4,2,6,66.66666666666666,33.33333333333333,6,Yes
+South Africa,12,6,4,12,50.0,33.33333333333333,8,Yes
+ROC,31,10,15,31,32.25806451612903,48.38709677419355,13,Yes
+Hungary,13,5,6,13,38.46153846153847,46.15384615384615,6,Yes
+Netherlands,24,8,11,24,33.33333333333333,45.83333333333333,12,Yes
+Kantor/Losiak,1,1,,1,100.0,,1,Yes
+Gaxiola/Rubio,1,1,,1,100.0,,1,Yes
+Lucena/Dalhausser,1,1,,1,100.0,,1,Yes
+Mol A./Sorum C.,1,1,,1,100.0,,1,Yes
+Bryl/Fijalek,1,1,,1,100.0,,1,Yes
+Greece,6,3,,6,50.0,,3,Yes
+C�te d�Ivoire,1,1,,1,100.0,,1,Yes
+Brouwer/Meeuwsen,1,1,,1,100.0,,1,Yes
+Ghana,1,1,,1,100.0,,1,Yes
+Thole J./Wickler,1,1,,1,100.0,,1,Yes
+Croatia,2,2,,2,100.0,,2,Yes
+Leshukov/Semenov,1,1,,1,100.0,,1,Yes
+Azaad/Capogrosso,1,1,,1,100.0,,1,Yes
+Perusic/Schweiner,1,1,,1,100.0,,1,Yes
+Venezuela,1,1,,1,100.0,,1,Yes
+Israel,5,1,,5,20.0,,4,Yes
+Alison/Alvaro Filho,1,1,,1,100.0,,1,Yes
+Abicha/Elgraoui,1,1,,1,100.0,,1,Yes
+Indonesia,2,1,,2,50.0,,1,Yes
+Gibb/Bourne,1,1,,1,100.0,,1,Yes
+Honduras,1,1,,1,100.0,,1,Yes
+Nicolai/Lupo,1,1,,1,100.0,,1,Yes
+Saudi Arabia,1,1,,1,100.0,,1,Yes
+McHugh/Schumann,1,1,,1,100.0,,1,Yes
+Grimalt M./Grimalt E.,1,1,,1,100.0,,1,Yes
+Heidrich/Gerson,1,1,,1,100.0,,1,Yes
+Latvia,1,1,,1,100.0,,1,Yes
+Evandro/Bruno Schmidt,1,1,,1,100.0,,1,Yes
+Cherif/Ahmed,1,1,,1,100.0,,1,Yes
+Islamic Rep. of Iran,3,3,,3,100.0,,3,Yes
+Gottsu/Shiratori,1,1,,1,100.0,,1,Yes
+Slovenia,2,2,,2,100.0,,2,Yes
+Botswana,1,1,,1,100.0,,1,Yes
+Krasilnikov/Stoyanovskiy,1,1,,1,100.0,,1,Yes
+Plavins/Tocs,1,1,,1,100.0,,1,Yes
+Carambula/Rossi,1,1,,1,100.0,,1,Yes
+Portugal,2,2,,2,100.0,,2,Yes
+Kazakhstan,3,2,,3,66.66666666666666,,3,Yes
+Korea,1,1,,1,100.0,,1,Yes
+Bahrain,1,1,,1,100.0,,1,Yes
+Colombia,3,1,,3,33.33333333333333,,3,Yes
+Herrera/Gavira,1,1,,1,100.0,,1,Yes
+Graudina/Kravcenoka,1,,1,1,,100.0,1,Yes
+Pavan/Melissa,1,,1,1,,100.0,1,Yes
+Huberli/Betschart,1,,1,1,,100.0,1,Yes
+Keizer/Meppelink,1,,1,1,,100.0,1,Yes
+Wang/X.Y.Xia,1,,1,1,,100.0,1,Yes
+Makroguzova/Kholomina,1,,1,1,,100.0,1,Yes
+Singapore,1,,1,1,,100.0,1,Yes
+Angola,1,,1,1,,100.0,1,Yes
+Ecuador,1,,1,1,,100.0,1,Yes
+Hermannova/Slukova,1,,1,1,,100.0,1,Yes
+Artacho Del Solar/Clancy,1,,1,1,,100.0,1,Yes
+Bahamas,1,,1,1,,100.0,1,Yes
+Puerto Rico,1,,1,1,,100.0,1,Yes
+Chile,1,,1,1,,100.0,1,Yes
+"Verge-Depre, A./Heidrich",1,,1,1,,100.0,1,Yes
+Xue/Wang X.X.,1,,1,1,,100.0,1,Yes
+Cuba,1,,1,1,,100.0,1,Yes
+Bansley/Brandie,1,,1,1,,100.0,1,Yes
+Liliana/Elsa,1,,1,1,,100.0,1,Yes
+Lidy/Leila,1,,1,1,,100.0,1,Yes
+Estonia,1,,1,1,,100.0,1,Yes
+Mongolia,2,,1,2,,50.0,2,Yes
+Dominican Rep.,3,,1,3,,33.33333333333333,3,Yes
+Makokha/Khadambi,1,,1,1,,100.0,1,Yes
+Sude/Borger,1,,1,1,,100.0,1,Yes
+Gallay/Pereyra,1,,1,1,,100.0,1,Yes
+Zambia,1,,1,1,,100.0,1,Yes
+Claes/Sponcil,1,,1,1,,100.0,1,Yes
+Ludwig/Kozuch,1,,1,1,,100.0,1,Yes
+Ishii/Murakami,1,,1,1,,100.0,1,Yes
+Agatha/Duda,1,,1,1,,100.0,1,Yes
+April/Alix,1,,1,1,,100.0,1,Yes
+Ana Patricia/Rebecca,1,,1,1,,100.0,1,Yes
+Menegatti/Orsi Toth,1,,1,1,,100.0,1,Yes
+Stam/Schoon,1,,1,1,,100.0,1,Yes
+Rep. of Moldova,1,,,1,,,1,Yes
+Malaysia,1,,,1,,,1,Yes
+WANG Zhen / ZHANG Mo,1,,,1,,,1,Yes
+SZUDI Adam / PERGEL Szandra,1,,,1,,,1,Yes
+WONG Chun Ting / DOO Hoi Kem,1,,,1,,,1,Yes
+PISTEJ Lubomir / BALAZOVA Barbora,1,,,1,,,1,Yes
+CAMPOS Jorge / FONSECA Daniela,1,,,1,,,1,Yes
+LEE Sangsu / JEON Jihee,1,,,1,,,1,Yes
+FRANZISKA Patrick / SOLJA Petrissa,1,,,1,,,1,Yes
+Bangladesh,1,,,1,,,1,Yes
+Liechtenstein,1,,,1,,,1,Yes
+ASSAR Omar / MESHREF Dina,1,,,1,,,1,Yes
+ACHANTA Kamal / BATRA Manika,1,,,1,,,1,Yes
+IONESCU Ovidiu / SZOCS Bernadette,1,,,1,,,1,Yes
+HU Heming / TAPPER Melissa,1,,,1,,,1,Yes
+Azerbaijan,1,,,1,,,1,Yes
+MIZUTANI Jun / ITO Mima,1,,,1,,,1,Yes
+LIN Yun Ju / CHENG I Ching,1,,,1,,,1,Yes
+Uzbekistan,1,,,1,,,1,Yes
+XU Xin / LIU Shiwen,1,,,1,,,1,Yes
+Bulgaria,1,,,1,,,1,Yes
+FEGERL Stefan / POLCANOVA Sofia,1,,,1,,,1,Yes
+LEBESSON Emmanuel / YUAN Jia Nan,1,,,1,,,1,Yes
+Vietnam,1,,,1,,,1,Yes

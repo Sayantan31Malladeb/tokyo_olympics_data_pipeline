@@ -1,0 +1,47 @@
+Discipline,Female,Male,Total,FemalePercentage,MalePercentage,GenderDifference
+3x3 Basketball,32,32,64,50.0,50.0,0
+Archery,64,64,128,50.0,50.0,0
+Artistic Gymnastics,98,98,196,50.0,50.0,0
+Artistic Swimming,105,0,105,100.0,0.0,105
+Athletics,969,1072,2041,47.48,52.52,103
+Badminton,86,87,173,49.71,50.29,1
+Baseball/Softball,90,144,234,38.46,61.54,54
+Basketball,144,144,288,50.0,50.0,0
+Beach Volleyball,48,48,96,50.0,50.0,0
+Boxing,102,187,289,35.29,64.71,85
+Canoe Slalom,41,41,82,50.0,50.0,0
+Canoe Sprint,123,126,249,49.4,50.6,3
+Cycling BMX Freestyle,10,9,19,52.63,47.37,1
+Cycling BMX Racing,24,24,48,50.0,50.0,0
+Cycling Mountain Bike,38,38,76,50.0,50.0,0
+Cycling Road,70,131,201,34.83,65.17,61
+Cycling Track,90,99,189,47.62,52.38,9
+Diving,72,71,143,50.35,49.65,1
+Equestrian,73,125,198,36.87,63.13,52
+Fencing,107,108,215,49.77,50.23,1
+Football,264,344,608,43.42,56.58,80
+Golf,60,60,120,50.0,50.0,0
+Handball,168,168,336,50.0,50.0,0
+Hockey,192,192,384,50.0,50.0,0
+Judo,192,201,393,48.85,51.15,9
+Karate,40,42,82,48.78,51.22,2
+Marathon Swimming,25,25,50,50.0,50.0,0
+Modern Pentathlon,36,36,72,50.0,50.0,0
+Rhythmic Gymnastics,96,0,96,100.0,0.0,96
+Rowing,257,265,522,49.23,50.77,8
+Rugby Sevens,146,151,297,49.16,50.84,5
+Sailing,175,175,350,50.0,50.0,0
+Shooting,178,178,356,50.0,50.0,0
+Skateboarding,40,40,80,50.0,50.0,0
+Sport Climbing,20,20,40,50.0,50.0,0
+Surfing,20,20,40,50.0,50.0,0
+Swimming,361,418,779,46.34,53.66,57
+Table Tennis,86,86,172,50.0,50.0,0
+Taekwondo,65,65,130,50.0,50.0,0
+Tennis,94,97,191,49.21,50.79,3
+Trampoline Gymnastics,16,16,32,50.0,50.0,0
+Triathlon,55,55,110,50.0,50.0,0
+Volleyball,144,144,288,50.0,50.0,0
+Water Polo,122,146,268,45.52,54.48,24
+Weightlifting,98,99,197,49.75,50.25,1
+Wrestling,96,193,289,33.22,66.78,97
